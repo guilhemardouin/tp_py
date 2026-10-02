@@ -1,4 +1,5 @@
- # Cours : utiliser Git et GitHub dans VS Code
+ Je suis guilhem.ardouin
+
 
 ## Objectifs
 
